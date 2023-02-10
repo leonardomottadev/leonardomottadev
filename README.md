@@ -4,6 +4,8 @@
 
 ### Me chamo Leonardo Motta de Oliveira
 
+[<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
+
 - 🌱 sou capixaba de Serra/ES  
 
 - 💻 sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
