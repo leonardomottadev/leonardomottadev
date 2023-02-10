@@ -20,7 +20,18 @@
 
 ### 💬 Web Chat 
 
-Participei da criação de um aplicativo de chat usando a stack MERN...
+Participei da criação de um aplicativo de um aplicativo de chat usando a stack MERN(MongoDB, Express, React, Node)
+
+Algumas features:
+- Separação entre servidores Front-end e Back-end
+- Criação de UI com ReactJS e TailwindCSS
+- Gerenciamento global de estados com Redux Toolkit
+- Lógica de Negócio com NodeJS
+- Proteção de rotas com JSON Web Tokens
+- Criptografia de senhas usando BCrypt
+- Densenvolvimento de REST APIs para Usuários e Chats
+- Persistência de dados com MongoDB
+- Arquitetura MVC
 
 [<img src="https://github.com/leo-motta/webchat/blob/master/screenshots/screenshot_03.png" width="600">](https://github.com/leo-motta/webchat)
 
@@ -29,7 +40,7 @@ Acesse em: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
 
 ### ♟️ Chess C++ Game 
 
-Participei da criação de um jogo de xadrez em C++ usando a biblioteca SDL2...
+Participei da criação de um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
 
 [<img src="https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg" width="600">](https://github.com/leo-motta/chess-sdl2)
 
