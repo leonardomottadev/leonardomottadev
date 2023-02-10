@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá! Seja muito bem vindo!  👋
+
+### Me chamo Leonardo Motta de Oliveira
+
+- 🌱 sou capixaba de Serra/ES  
+
+- 💻 sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
+
+- ⚡ possuo interesse em desenvolvimento de Front-end
+
+- 🚀 possuo interesse em desenvolvimento de Back-end
+
+- 🔑 possuo interesse em banco de dados
 
 <!--
-**leo-motta/leo-motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-motta&hide=TeX&layout=compact)
 -->
+
+### Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomottaol)](https://www.linkedin.com/in/leonardomottaol/)
+[![Gmail Badge](https://img.shields.io/badge/-leonardomotta@ucl.br-5DADE2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomotta@ucl.br)](mailto:leonardomotta@ucl.br)
