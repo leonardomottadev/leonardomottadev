@@ -1,5 +1,7 @@
 # Olá! Seja muito bem vindo!  👋
 
+[<img src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
+
 ### Me chamo Leonardo Motta de Oliveira
 
 - 🌱 sou capixaba de Serra/ES  
