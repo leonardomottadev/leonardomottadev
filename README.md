@@ -20,7 +20,7 @@
 
 ### 💬 Web Chat 
 
-Participei da criação de um aplicativo de um aplicativo de chat usando a stack MERN(MongoDB, Express, React, Node)
+Participei da criação de um aplicativo de chat usando a stack MERN(MongoDB, Express, React, Node)
 
 Algumas features:
 - Separação entre servidores Front-end e Back-end
