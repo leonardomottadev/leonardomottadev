@@ -1,6 +1,6 @@
 # Olá! Seja muito bem vindo!  👋
 
-[<img alt="profile pic" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="300">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
+[<img alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/banner.png" >](https://raw.githubusercontent.com/leo-motta/leo-motta/master/banner.png)
 
 ### Me chamo Leonardo Motta de Oliveira
 
