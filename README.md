@@ -18,7 +18,7 @@
 
 ## Principais Projetos
 
-### Webchat
+### 💬 Web Chat 
 
 Participei da criação de um aplicativo de chat usando a stack MERN...
 
@@ -27,7 +27,7 @@ Participei da criação de um aplicativo de chat usando a stack MERN...
 Acesse em: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
 
 
-### Chess
+### ♟️ Chess C++ Game 
 
 Participei da criação de um jogo de xadrez em C++ usando a biblioteca SDL2...
 
