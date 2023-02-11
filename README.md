@@ -31,7 +31,6 @@ Algumas features:
 - Criptografia de senhas usando BCrypt
 - Densenvolvimento de REST APIs para Usuários e Chats
 - Persistência de dados com MongoDB
-- Arquitetura MVC
 
 [<img src="https://github.com/leo-motta/webchat/blob/master/screenshots/screenshot_03.png" width="600">](https://github.com/leo-motta/webchat)
 
