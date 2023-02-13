@@ -14,7 +14,13 @@
 
 - 🚀 possuo interesse em desenvolvimento de Back-end
 
-- 🔑 possuo interesse em banco de dados
+- 🔑 possuo interesse em Banco de Dados
+
+- ☁️  possuo interesse em Cloud Computing
+
+- 🤖 possuo interesse em IA
+
+- 🏗️ possuo interesse em DevOps
 
 ## Principais Projetos
 
