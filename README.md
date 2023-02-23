@@ -1,11 +1,15 @@
-## Olá! Seja muito bem vindo!  👋
+## Olá! 👋 
 
 [<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
-- Me chamo Leonardo Motta de Oliveira
+- 🖊️ Me chamo Leonardo Motta de Oliveira
 - 💻 Sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
 - 🚀 Interessado em Backend, DBs, Cloud Computing, IA e DevOps
 - 🌱 Capixaba de Serra/ES  
 - 💬 Siga e vamos conversar
+
+## Principais Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular)](https://skillicons.dev)
 
 ## Principais Projetos
 
