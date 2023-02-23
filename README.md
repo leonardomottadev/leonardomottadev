@@ -1,34 +1,19 @@
-# Olá! Seja muito bem vindo!  👋
-
-[<img alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/banner.png" >](https://raw.githubusercontent.com/leo-motta/leo-motta/master/banner.png)
-
-## Me chamo Leonardo Motta de Oliveira
+## Olá! Seja muito bem vindo!  👋
 
 [<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
-
-- 🌱 sou capixaba de Serra/ES  
-
-- 💻 sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
-
-- ⚡ possuo interesse em desenvolvimento de Front-end
-
-- 🚀 possuo interesse em desenvolvimento de Back-end
-
-- 🔑 possuo interesse em Banco de Dados
-
-- ☁️  possuo interesse em Cloud Computing
-
-- 🤖 possuo interesse em IA
-
-- 🏗️ possuo interesse em DevOps
+- Me chamo Leonardo Motta de Oliveira
+- 💻 Sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
+- 🚀 Interessado em Backend, DBs, Cloud Computing, IA e DevOps
+- 🌱 Capixaba de Serra/ES  
+- 💬 Siga e vamos conversar
 
 ## Principais Projetos
 
 ### 💬 Web Chat 
 
-Participei da criação de um aplicativo de chat usando a stack MERN(MongoDB, Express, React, Node)
+Participei da criação de um aplicativo de chat usando a stack MERN
 
-Algumas features:
+Features:
 - Separação entre servidores Front-end e Back-end
 - Criação de UI com ReactJS e TailwindCSS
 - Gerenciamento global de estados com Redux Toolkit
