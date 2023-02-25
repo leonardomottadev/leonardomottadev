@@ -9,7 +9,7 @@
 
 ## Principais Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,java,spring)](https://skillicons.dev)
 
 ## Principais Projetos
 
