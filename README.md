@@ -4,20 +4,20 @@
 ## Sobre
 - 🖊️ Me chamo Leonardo Motta de Oliveira
 - 💻 Sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
-- 🚀 Interessado em Desenvolvimento de Sistemas, Desenvolvimento de Backend, Banco de Dados, Cloud Computing, IA e DevOps.
-- 📚 Possuo conhecimentos práticos em: JavaScript, TypeScript, .NET, Angular, ReactJS, NodeJS.
+- 🚀 Interessado em Desenvolvimento de Sistemas, Banco de Dados, Cloud, IA e DevOps.
+- 📚 Possuo conhecimentos práticos em: .NET, JavaScript, TypeScript, Angular, ReactJS, NodeJS.
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,java,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,tailwind,sass&theme=light)](https://skillicons.dev)
 
 ## Projetos
 
 ### 💬 Web Chat 
 
-Participei da criação de um aplicativo de chat usando a stack MERN
+Desenvolvi do zero um aplicativo de chat usando a stack MERN
 
-Features:
+Recursos:
 - Separação entre servidores Front-end e Back-end
 - Criação de UI com ReactJS e TailwindCSS
 - Gerenciamento global de estados com Redux Toolkit
@@ -34,7 +34,7 @@ Acesse em: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
 
 ### ♟️ Chess C++ Game 
 
-Participei da criação de um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
+Desenvolvi do zero um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
 
 [<img src="https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg" width="600">](https://github.com/leo-motta/chess-sdl2)
 
