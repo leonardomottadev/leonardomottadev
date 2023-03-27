@@ -9,7 +9,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,tailwind,sass&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,java,spring,tailwind,sass&theme=light)](https://skillicons.dev)
 
 ## Projetos
 
