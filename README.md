@@ -6,17 +6,26 @@
 [<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
 -->
 ## Sobre
-- 🖊️ Me chamo Leonardo Motta de Oliveira
-- 💻 Sou estudante de Engenharia de Computação pela Faculdade UCL – (dez/2023)
-- 🚀 Interessado em Desenvolvimento de Sistemas, Banco de Dados, Cloud, IA e DevOps.
-- 📚 Possuo conhecimentos práticos em: .NET, JavaScript, TypeScript, ReactJS, NodeJS.
+- 🙋‍♂️ Me chamo Leonardo Motta de Oliveira
+- 💻 Sou graduando em Engenharia de Computação (dez/2023)
+- 📚 Experiência em: Java, C#, JavaScript, Angular, TypeScript, ReactJS e NodeJS.
+- 🚀 Interessado em Engenharia de Software, Cloud, DevOps e Ciência de Dados.
 
 <!--
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,java,spring,tailwind,sass&theme=light)](https://skillicons.dev)
 -->
-## Projetos
+## Projetos em destaque
+
+
+### ♟️ Chess C++ Game 
+<!--
+Desenvolvi do zero um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
+-->
+[<img src="https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg" width="400">](https://github.com/leo-motta/chess-sdl2)
+
+Repositório: [Chess C++](https://github.com/leo-motta/chess-sdl2 "Chess C++")
 
 ### 💬 Web Chat 
 
@@ -36,15 +45,6 @@ Recursos:
 [<img src="https://github.com/leo-motta/webchat/blob/master/screenshots/screenshot_03.png" width="400">](https://github.com/leo-motta/webchat)
 
 Repositório: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
-
-
-### ♟️ Chess C++ Game 
-<!--
-Desenvolvi do zero um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
--->
-[<img src="https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg" width="400">](https://github.com/leo-motta/chess-sdl2)
-
-Repositório: [Chess C++](https://github.com/leo-motta/chess-sdl2 "Chess C++")
 
 ## Contato
 
