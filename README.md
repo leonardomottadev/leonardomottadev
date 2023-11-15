@@ -49,5 +49,5 @@ Repositório: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
 
 ## Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomottaol)](https://www.linkedin.com/in/leonardomottaol/)
-[![Gmail Badge](https://img.shields.io/badge/-leonardomotta@ucl.br-5DADE2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomotta@ucl.br)](mailto:leonardomotta@ucl.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-5DADE2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomotta@ucl.br)](mailto:leonardomotta@ucl.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomottadev)](https://www.linkedin.com/in/leonardomottadev/)
