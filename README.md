@@ -43,8 +43,6 @@ Recursos:
 -->
 [<img src="https://github.com/leo-motta/webchat/blob/master/screenshots/screenshot_03.png" width="400">](https://github.com/leo-motta/webchat)
 
-Repositório: 
-
 ## Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-5DADE2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomotta@ucl.br)](mailto:leonardomotta@ucl.br)
