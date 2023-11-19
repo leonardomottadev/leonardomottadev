@@ -20,15 +20,13 @@
 ### Projetos em destaque
 
 
--  ♟️ Chess C++
+-  ♟️ [Chess C++](https://github.com/leo-motta/chess-sdl2 "Chess C++")
 <!--
 Desenvolvi do zero um jogo de xadrez em C++ usando a biblioteca gráfica SDL2
 -->
 [<img src="https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg" width="400">](https://github.com/leo-motta/chess-sdl2)
 
-Repositório: [Chess C++](https://github.com/leo-motta/chess-sdl2 "Chess C++")
-
-- 💬 Web Chat 
+- 💬 [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
 
 <!--
 Chat criado do zero usando a stack MERN
@@ -45,7 +43,7 @@ Recursos:
 -->
 [<img src="https://github.com/leo-motta/webchat/blob/master/screenshots/screenshot_03.png" width="400">](https://github.com/leo-motta/webchat)
 
-Repositório: [Web Chat](https://github.com/leo-motta/webchat "Web Chat")
+Repositório: 
 
 ## Contato
 
