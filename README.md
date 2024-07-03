@@ -1,11 +1,11 @@
-## Bem vindo!
+## Welcome!
 <!--
 # Olá! Seja bem vindo! 👋  
 -->
 <!--
 [<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
 -->
-### Sobre
+### About me
 Hi there! I'm Leonardo Motta de Oliveira, a recent Computer Engineering graduate (December 2023) with a passion for software development. I've gained hands-on experience in Java, C#, C++ and JavaScript, and I'm also familiar with Angular, React, and NodeJS. I'm particularly interested in Software Engineering and Cloud Computing, and I'm always eager to learn new things and take on new challenges. I'm a team player and a quick learner, and I'm confident that I can make a valuable contribution to any team.
 
 <!--
