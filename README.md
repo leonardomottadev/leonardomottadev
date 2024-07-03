@@ -6,18 +6,14 @@
 [<img align="right"  alt="banner" src="https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png" width="200">](https://raw.githubusercontent.com/leo-motta/leo-motta/master/profile.png)
 -->
 ### Sobre
-- 🙋‍♂️ Me chamo Leonardo Motta de Oliveira
-- 💻 Sou graduando em Engenharia de Computação (dez/2023)
-- 💼 Experiência profissional em Java, C# e JavaScript;
-- 📚  Conhecimentos práticos em Angular, ReactJS e NodeJS.
-- 🚀 Interessado em Engenharia de Software e Cloud Computing.
+Hi there! I'm Leonardo Motta de Oliveira, a recent Computer Engineering graduate (December 2023) with a passion for software development. I've gained hands-on experience in Java, C#, C++ and JavaScript, and I'm also familiar with Angular, React, and NodeJS. I'm particularly interested in Software Engineering and Cloud Computing, and I'm always eager to learn new things and take on new challenges. I'm a team player and a quick learner, and I'm confident that I can make a valuable contribution to any team.
 
 <!--
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,angular,java,spring,tailwind,sass&theme=light)](https://skillicons.dev)
 -->
-### Projetos em destaque
+### Projects
 
 
 -  ♟️ [Chess C++](https://github.com/leo-motta/chess-sdl2 "Chess C++")
